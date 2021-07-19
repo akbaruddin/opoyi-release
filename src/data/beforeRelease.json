@@ -1,0 +1,47 @@
+[
+  {
+    "id": "38b1cf6d-cfc9-4b3e-a975-508e862b5ff3",
+    "name": "Release Branch Name",
+    "check": false
+  },
+  {
+    "id": "916cdd6a-3e27-45ec-94f7-932e284bec8e",
+    "name": "Stage Test Start",
+    "check": false
+  },
+  {
+    "id": "e82c189d-5d82-4adc-8802-3dc6d40a0641",
+    "name": "Marge/Pull request",
+    "check": false
+  },
+  {
+    "id": "9d4662a6-1b60-48f1-9d16-9c9ec5051b91",
+    "name": "Code review",
+    "check": false
+  },
+  {
+    "id": "db71c027-a55b-48c3-b2c6-2a7c2f4cde66",
+    "name": "Branch Name",
+    "check": false
+  },
+  {
+    "id": "7f8c7078-79d1-4916-8de2-734b0bf1b680",
+    "name": "Pre-prod Test Start",
+    "check": false
+  },
+  {
+    "id": "fea035cf-2790-4062-a8d2-5cb1a72a9d81",
+    "name": "Release notes updates",
+    "check": false
+  },
+  {
+    "id": "c38145e4-78a4-4cc5-92c0-509efb1a2660",
+    "name": "Basic Sanity or Production",
+    "check": false
+  },
+  {
+    "id": "596f2850-8647-49cf-b701-66c8877977de",
+    "name": "Release time slot",
+    "check": false
+  }
+]

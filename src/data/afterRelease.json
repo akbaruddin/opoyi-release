@@ -1,0 +1,17 @@
+[
+  {
+    "id": "405bcba1-790d-4c47-95b0-631516fc789c",
+    "name": "Branch Name",
+    "check": false
+  },
+  {
+    "id": "b5f4223d-e764-4d7a-903e-9226b235135e",
+    "name": "Release Notes update on sheet",
+    "check": false
+  },
+  {
+    "id": "9fffdb43-9e5c-4c59-a2ff-ddb5055c0a10",
+    "name": "Sanity on Production/Live Site",
+    "check": false
+  }
+]

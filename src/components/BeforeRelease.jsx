@@ -1,7 +1,6 @@
 import React, { useContext } from 'react';
-import ChecksContext from '../context/checksContext';
+import ChecksContext from '../context/ChecksContext';
 import Label from './Label';
-import releaseList from '../data/beforeRelease.json';
 
 function BeforeRelease() {
   const { lists } = useContext(ChecksContext)

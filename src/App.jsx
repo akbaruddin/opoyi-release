@@ -1,7 +1,7 @@
 import React, { useContext, useEffect } from 'react'
 import { Layout, Typography, Row, Col, Divider, Button } from 'antd';
 
-import ChecksContext, { CheckProvider } from './context/checksContext'
+import ChecksContext, { CheckProvider } from './context/ChecksContext'
 import BeforeRelease from './components/BeforeRelease'
 import AfterRelease from './components/AfterRelease'
 import beforeRelease from './data/beforeRelease.json';

@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import ChecksContext from '../context/checksContext';
+import ChecksContext from '../context/ChecksContext';
 import Label from './Label';
 
 function AfterRelease() {

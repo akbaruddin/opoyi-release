@@ -1,3 +1,3 @@
 # Release Notes
 
-Test bot push check
+Test bot push check master updates

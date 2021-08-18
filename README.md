@@ -1,3 +1,3 @@
 # Release Notes
 
-Test bot push check master card special
+Test bot push check master card specials

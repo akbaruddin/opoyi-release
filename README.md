@@ -1,3 +1,3 @@
 # Release Notes
 
-Test bot push check master updates one html
+Test bot push check master card special
